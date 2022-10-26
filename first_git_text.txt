@@ -3,3 +3,4 @@ Gitの練習をします。
 できたのか？
 今17:32です。
 ・git rm
+・git status
